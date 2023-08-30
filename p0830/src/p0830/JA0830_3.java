@@ -9,6 +9,7 @@ public class JA0830_3 {
 		
 		int num1 = 550;
 		int num2 = 150;
+		int temp2 = 0;
 		
 		System.out.println(num1+num2);
 		System.out.println(num1-num2);
